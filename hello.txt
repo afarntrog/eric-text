@@ -1,0 +1,1 @@
+document.getElementById('opacity').value = e.target.get('opacity');
